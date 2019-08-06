@@ -1,0 +1,15 @@
+- name: About
+  link: /about/
+- name: YouTube
+  dropdown:
+    - name: Livinus Anayo
+      link: https://www.youtube.com/channel/UCO68pnGZ0mBKzSA3AdCu6Ig
+    - name: Nwafor-Tech
+      link: https://www.youtube.com/channel/UCRERCmSJrHhRfoU2kk5-b5g
+- name: Tutorials
+  link: /tutorials/
+  dropdown:
+    - name: Python Programming Tutorial
+      link: /tutorials/Python_Tutorial.html
+    - name: Data Science Tutorial
+      link: /tutorials/Data_Science_Tutorial.html

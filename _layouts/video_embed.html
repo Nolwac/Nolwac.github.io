@@ -1,0 +1,53 @@
+---
+layout: post
+show_sidebar: true
+---
+<style type="text/css">
+  .content figure{
+    text-align:left;
+  }
+  @media screen and (min-width: 800px){
+    iframe{
+      height:30em;
+      width:50em;
+    }
+  }
+  @media screen and (max-width: 800px){
+    iframe{
+      height:30em;
+      width:50em;
+    }
+  }
+  @media screen and (max-width: 500px){
+    iframe{
+      height:350px;
+      width:500px;
+    }
+  }
+  .post-image{
+    max-width:100%;
+  }
+</style>
+{%if page.image%}
+<div>
+  <img class="post-image" src="{{page.image}}"/>
+</div>
+{%endif%}
+{{content}}
+{%if page.embeds%}
+  {%for embed in page.embeds%}
+    {%if embed.title%}
+      <h3 class="embed-title">{{embed.title}}</h3>
+    {%endif%}
+    {%if embed.url%}
+      <div class="embed-frame">
+        <iframe width="853" height="480" src="{{embed.url}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+        </iframe>
+      </div>
+    {%endif%}
+    {%if embed.description%}
+      <h3>{{embed.url}}: is the url</h3>
+    {%endif%}
+    <hr/>
+  {%endfor%}
+{%endif%}

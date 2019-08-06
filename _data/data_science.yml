@@ -1,0 +1,15 @@
+- label: Data Science Tutorial
+  items:
+    - name: What is Data Science?
+      link: /
+    - name: Machine Learning
+      link: #
+      items:
+        - name: K nearest neighbour
+          link: /page-1/
+        - name: Linear Regression
+          link: /page-2/
+        - name: Logistic Regression
+          link: /page-3/
+    - name: Data Analysis
+      link: /blog/
