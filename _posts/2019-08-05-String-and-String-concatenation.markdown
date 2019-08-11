@@ -8,7 +8,7 @@ embeds:
 title:  "String and String concatenation"
 subtitle: pip install Nwafor.org!
 date:   2019-08-05 21:03:11 +0100
-categories: Python_Tutorial
+categories: python_tutorial
 show_sidebar: true
 tutorial: Python_Tutorial
 permalink: /tutorials/:categories/:title.html

@@ -8,7 +8,7 @@ embeds:
 title:  "Introduction to QPython3 mobile app interface"
 subtitle: when the most appropriate tool is not available, we settle for any available tool!
 date:   2019-08-03 18:40:11 +0100
-categories: Python_Tutorial
+categories: python_tutorial
 show_sidebar: true
 tutorial: Python_Tutorial
 permalink: /tutorials/:categories/:title.html

@@ -8,7 +8,7 @@ embeds:
 title:  "Python Tuple"
 subtitle: Immutability is desirable when we don't want things changing!
 date:   2019-08-07 13:22:11 +0100
-categories: Python_Tutorial
+categories: python_tutorial
 show_sidebar: true
 tutorial: Python_Tutorial
 permalink: /tutorials/:categories/:title.html

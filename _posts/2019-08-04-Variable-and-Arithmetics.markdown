@@ -8,7 +8,7 @@ embeds:
 title:  "Variables and Arithmetic"
 subtitle: temporarily holding data is almost inevitable in computing!
 date:   2019-08-04 20:32:11 +0100
-categories: Python_Tutorial
+categories: python_tutorial
 show_sidebar: true
 tutorial: Python_Tutorial
 permalink: /tutorials/:categories/:title.html

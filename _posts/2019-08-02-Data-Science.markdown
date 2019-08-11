@@ -9,7 +9,7 @@ embeds:
 title:  "Data Science with Python from scratch"
 subtitle: the universe is full of data which does not make sense to us, but it is time we make sense of them!
 date:   2019-08-02 15:22:11 +0100
-categories: Data_Science_Tutorial
+categories: data_science_tutorial
 image: /assets/Posts/Data_Science.jpeg
 show_sidebar: true
 tutorial: Python_Tutorial

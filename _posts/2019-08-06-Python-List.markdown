@@ -14,7 +14,7 @@ embeds:
 title:  "Python List"
 subtitle: accommodating data of different types can be very important too!
 date:   2019-08-06 20:22:11 +0100
-categories: Python_Tutorial
+categories: python_tutorial
 show_sidebar: true
 tutorial: Python_Tutorial
 permalink: /tutorials/:categories/:title.html

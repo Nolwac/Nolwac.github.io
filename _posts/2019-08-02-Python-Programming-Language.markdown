@@ -9,7 +9,7 @@ embeds:
 title:  "Python Programming Language"
 subtitle: pip install Nwafor.org!
 date:   2019-08-02 20:22:11 +0100
-categories: Python_Tutorial
+categories: python_tutorial
 image: /assets/Posts/Python_image.jpeg
 show_sidebar: true
 tutorial: Python_Tutorial

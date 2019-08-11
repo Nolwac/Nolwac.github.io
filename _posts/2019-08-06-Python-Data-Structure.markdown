@@ -11,7 +11,7 @@ embeds:
 title:  "Data Structures"
 subtitle: Data presentation affects programming Algorithm
 date:   2019-08-06 05:28:11 +0100
-categories: Python_Tutorial
+categories: python_tutorial
 show_sidebar: false
 tutorial: Python_Tutorial
 permalink: /tutorials/:categories/:title.html
