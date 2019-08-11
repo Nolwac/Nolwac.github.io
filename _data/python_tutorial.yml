@@ -1,15 +1,15 @@
 - label: Python Programming Tutorial
   items:
     - name: Introduction to Python
-      link: /
+      link: /tutorials/Python_Tutorial/Python-Programming-Language.html
     - name: Variables and Arithmetics in Python
-      link: #
+      link: /tutorials/Python_Tutorial/Variable-and-Arithmetics.html
     - name: String and String concatenation in Python
-      link: #
+      link: /tutorials/Python_Tutorial/String-and-String-concatenation.html
     - name: Data Structures
-      link: #
+      link: /tutorials/Python_Tutorial/Python-Data-Structure.html
       items:
         - name: Python List
-          link: /page-1/
+          link: /tutorials/Python_Tutorial/Python-List.html
         - name: Python Tuple
-          link: /page-2/
+          link: /tutorials/Python_Tutorial/Python-Tuple.html

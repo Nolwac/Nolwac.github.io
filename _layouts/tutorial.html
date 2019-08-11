@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: product
 show_sidebar: true
 ---
 <style type="text/css">
@@ -29,20 +29,15 @@ show_sidebar: true
     max-width:100%;
   }
 </style>
-{%if page.image%}
-<div>
-  <img class="post-image" src="{{page.image}}"/>
-</div>
-{%endif%}
 {{content}}
 {%if page.embeds%}
   {%for embed in page.embeds%}
     {%if embed.title%}
       <h3 class="embed-title">{{embed.title}}</h3>
     {%endif%}
-    {%if embed.code%}
+    {%if embed.url%}
       <div class="embed-frame">
-        <iframe width="853" height="480" src="https://www.youtube.com/embed/{{embed.code}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+        <iframe width="853" height="480" src="{{embed.url}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
         </iframe>
       </div>
     {%endif%}

@@ -1,0 +1,6 @@
+- label: Python Data Structures
+  items:
+    - name: Python List
+      link: /tutorials/Python_Tutorial/Python-List.html
+    - name: Python Tuple
+      link: /tutorials/Python_Tutorial/Python-Tuple.html

@@ -1,12 +1,21 @@
 ---
-layout: tutorial
-title:  "Data Science"
+layout: video_embed
+embeds:
+  - code: "h5NU50vvfPQ"
+    title: "Learn Data Science with Python"
+  - code: "aircAruvnKk"
+    title: What is machine learning and neural network?
+
+title:  "Data Science with Python from scratch"
 subtitle: the universe is full of data which does not make sense to us, but it is time we make sense of them!
-date:   2019-08-03 20:22:11 +0100
-categories: jekyll update
+date:   2019-08-02 15:22:11 +0100
+categories: Data_Science_Tutorial
 image: /assets/Posts/Data_Science.jpeg
-menubar: data_science
-#hero_image: /assets/Posts/Data_Science.jpeg
+show_sidebar: true
+tutorial: Python_Tutorial
+permalink: /tutorials/:categories/:title.html
+author: Livinus Anayo
+published: true
 ---
 
 [Data Science][data_science] is a field that uses statistics, mathematics, and computing to make sense out of raw data (structured and unstructured).

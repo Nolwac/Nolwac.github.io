@@ -26,6 +26,10 @@ github_username:  Nolwac
 markdown: kramdown
 theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
+
+paginate: 4
+paginate_path: "/page:num"
+
 plugins:
   - jekyll-feed
 
@@ -53,3 +57,15 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Livinus Anayo"
+      layout: video_embed
+      show_sidebar: true
+      permalink: /tutorials/:categories/:title.html
+      hero_height: is-fullwidth
