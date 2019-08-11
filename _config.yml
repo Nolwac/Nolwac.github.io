@@ -58,6 +58,8 @@ collections:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+google_analytics: UA-145452731-1
+
 defaults:
   -
     scope:
