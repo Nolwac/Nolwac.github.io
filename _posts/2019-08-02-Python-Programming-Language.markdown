@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: video_embed
 embeds:
-  - code: "6o7b9yyhH7k"
-    title: "the new title"
+  - code: "Y8Tko2YC5hA"
+    title: "What is Python?"
     description: "This video is an introduction to Python programming language"
-  - code: "6o7b9yyhH7k"
 
 title:  "Python Programming Language"
 subtitle: pip install Nwafor.org!
